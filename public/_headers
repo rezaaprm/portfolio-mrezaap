@@ -1,0 +1,11 @@
+﻿/games/p16/Build/*.data.unityweb
+  Content-Type: application/octet-stream
+  Content-Encoding: gzip
+
+/games/p16/Build/*.framework.js.unityweb
+  Content-Type: application/javascript
+  Content-Encoding: gzip
+
+/games/p16/Build/*.wasm.unityweb
+  Content-Type: application/wasm
+  Content-Encoding: gzip
